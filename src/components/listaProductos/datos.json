@@ -1,0 +1,30 @@
+[
+    {
+        
+        "producto": "Montura1",
+        "marca": "Marca1",
+        "lente": "fotosencible1"
+
+    },
+    {
+        
+        "producto": "Montura2",
+        "marca": "Marca2",
+        "lente": "fotosencible2"
+
+    },
+    {
+        
+        "producto": "Montura3",
+        "marca": "Marca3",
+        "lente": "fotosencible3"
+
+    },
+    {
+        
+        "producto": "Montura4",
+        "marca": "Marca4",
+        "lente": "fotosencible4"
+
+    }
+]
